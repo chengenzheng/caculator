@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					B76A4B321F75ABF600E7B6AD = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = FEW6T6TFJQ;
 						ProvisioningStyle = Automatic;
 					};
 					B76A4B461F75ABF600E7B6AD = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FEW6T6TFJQ;
 				INFOPLIST_FILE = caculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Hello-love.caculator";
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FEW6T6TFJQ;
 				INFOPLIST_FILE = caculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Hello-love.caculator";
